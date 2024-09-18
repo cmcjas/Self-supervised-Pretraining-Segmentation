@@ -1,0 +1,306 @@
+Training (90.0%) with 10 epochs, batch size: 8, learning rate: 0.001
+Epoch [1/10], Loss: 0.5956, Time taken: 15.51s
+Epoch [1/10], Validation Loss: 0.6402, Validation IoU: 0.4914, Pixel Accuracy: 0.7437 
+
+Epoch [2/10], Loss: 0.5441, Time taken: 13.95s
+Epoch [2/10], Validation Loss: 0.5308, Validation IoU: 0.5665, Pixel Accuracy: 0.7893 
+
+Epoch [3/10], Loss: 0.5898, Time taken: 13.99s
+Epoch [3/10], Validation Loss: 0.4852, Validation IoU: 0.5894, Pixel Accuracy: 0.8096 
+
+Epoch [4/10], Loss: 0.4909, Time taken: 13.99s
+Epoch [4/10], Validation Loss: 0.4943, Validation IoU: 0.5785, Pixel Accuracy: 0.8104 
+
+Epoch [5/10], Loss: 0.3331, Time taken: 13.78s
+Epoch [5/10], Validation Loss: 0.4482, Validation IoU: 0.6035, Pixel Accuracy: 0.8245 
+
+Epoch [6/10], Loss: 0.3374, Time taken: 13.94s
+Epoch [6/10], Validation Loss: 0.4652, Validation IoU: 0.6113, Pixel Accuracy: 0.8191 
+
+Epoch [7/10], Loss: 0.2428, Time taken: 13.99s
+Epoch [7/10], Validation Loss: 0.4483, Validation IoU: 0.6527, Pixel Accuracy: 0.8357 
+
+Epoch [8/10], Loss: 0.2297, Time taken: 13.94s
+Epoch [8/10], Validation Loss: 0.4532, Validation IoU: 0.6349, Pixel Accuracy: 0.8350 
+
+Epoch [9/10], Loss: 0.4066, Time taken: 14.03s
+Epoch [9/10], Validation Loss: 0.4436, Validation IoU: 0.6435, Pixel Accuracy: 0.8404 
+
+Epoch [10/10], Loss: 0.1956, Time taken: 13.87s
+Epoch [10/10], Validation Loss: 0.4595, Validation IoU: 0.6552, Pixel Accuracy: 0.8427 
+
+Top-1 IoU: 0.6552, Mean IoU: 0.6027
+Model saved successfully!
+
+Training (50.0%) with 10 epochs, batch size: 8, learning rate: 0.001
+Epoch [1/10], Loss: 0.8134, Time taken: 10.65s
+Epoch [1/10], Validation Loss: 0.6805, Validation IoU: 0.4287, Pixel Accuracy: 0.7296 
+
+Epoch [2/10], Loss: 0.4905, Time taken: 10.75s
+Epoch [2/10], Validation Loss: 0.5960, Validation IoU: 0.5215, Pixel Accuracy: 0.7621 
+
+Epoch [3/10], Loss: 0.5135, Time taken: 10.80s
+Epoch [3/10], Validation Loss: 0.5814, Validation IoU: 0.5173, Pixel Accuracy: 0.7704 
+
+Epoch [4/10], Loss: 0.4373, Time taken: 10.71s
+Epoch [4/10], Validation Loss: 0.5224, Validation IoU: 0.5486, Pixel Accuracy: 0.7937 
+
+Epoch [5/10], Loss: 0.4650, Time taken: 10.70s
+Epoch [5/10], Validation Loss: 0.4953, Validation IoU: 0.5764, Pixel Accuracy: 0.8056 
+
+Epoch [6/10], Loss: 0.4338, Time taken: 10.72s
+Epoch [6/10], Validation Loss: 0.4814, Validation IoU: 0.6097, Pixel Accuracy: 0.8163 
+
+Epoch [7/10], Loss: 0.4397, Time taken: 10.78s
+Epoch [7/10], Validation Loss: 0.4841, Validation IoU: 0.6116, Pixel Accuracy: 0.8125 
+
+Epoch [8/10], Loss: 0.3241, Time taken: 10.69s
+Epoch [8/10], Validation Loss: 0.4916, Validation IoU: 0.6115, Pixel Accuracy: 0.8138 
+
+Epoch [9/10], Loss: 0.2617, Time taken: 10.82s
+Epoch [9/10], Validation Loss: 0.4795, Validation IoU: 0.6074, Pixel Accuracy: 0.8249 
+
+Epoch [10/10], Loss: 0.2461, Time taken: 10.87s
+Epoch [10/10], Validation Loss: 0.4798, Validation IoU: 0.6288, Pixel Accuracy: 0.8285 
+
+Top-1 IoU: 0.6288, Mean IoU: 0.5661
+Model saved successfully!
+
+Training (20.0%) with 10 epochs, batch size: 8, learning rate: 0.001
+Epoch [1/10], Loss: 0.6803, Time taken: 8.42s
+Epoch [1/10], Validation Loss: 0.7382, Validation IoU: 0.4205, Pixel Accuracy: 0.7070 
+
+Epoch [2/10], Loss: 0.7180, Time taken: 8.33s
+Epoch [2/10], Validation Loss: 0.7153, Validation IoU: 0.4383, Pixel Accuracy: 0.7173 
+
+Epoch [3/10], Loss: 0.6799, Time taken: 8.30s
+Epoch [3/10], Validation Loss: 0.6620, Validation IoU: 0.4562, Pixel Accuracy: 0.7355 
+
+Epoch [4/10], Loss: 0.8193, Time taken: 8.35s
+Epoch [4/10], Validation Loss: 0.6408, Validation IoU: 0.4752, Pixel Accuracy: 0.7421 
+
+Epoch [5/10], Loss: 0.7165, Time taken: 8.68s
+Epoch [5/10], Validation Loss: 0.6079, Validation IoU: 0.4730, Pixel Accuracy: 0.7562 
+
+Epoch [6/10], Loss: 0.5948, Time taken: 8.39s
+Epoch [6/10], Validation Loss: 0.5973, Validation IoU: 0.5121, Pixel Accuracy: 0.7618 
+
+Epoch [7/10], Loss: 0.4748, Time taken: 8.58s
+Epoch [7/10], Validation Loss: 0.6099, Validation IoU: 0.5365, Pixel Accuracy: 0.7634 
+
+Epoch [8/10], Loss: 0.5078, Time taken: 8.99s
+Epoch [8/10], Validation Loss: 0.5769, Validation IoU: 0.5310, Pixel Accuracy: 0.7725 
+
+Epoch [9/10], Loss: 0.5499, Time taken: 8.30s
+Epoch [9/10], Validation Loss: 0.5781, Validation IoU: 0.5061, Pixel Accuracy: 0.7722 
+
+Epoch [10/10], Loss: 0.3415, Time taken: 8.35s
+Epoch [10/10], Validation Loss: 0.5540, Validation IoU: 0.5543, Pixel Accuracy: 0.7901 
+
+Top-1 IoU: 0.5543, Mean IoU: 0.4903
+Model saved successfully!
+
+Training (90.0%) with 10 epochs, batch size: 16, learning rate: 0.001
+Epoch [1/10], Loss: 0.6814, Time taken: 12.23s
+Epoch [1/10], Validation Loss: 0.6429, Validation IoU: 0.4996, Pixel Accuracy: 0.7424 
+
+Epoch [2/10], Loss: 0.4856, Time taken: 12.14s
+Epoch [2/10], Validation Loss: 0.5650, Validation IoU: 0.5467, Pixel Accuracy: 0.7782 
+
+Epoch [3/10], Loss: 0.4910, Time taken: 12.11s
+Epoch [3/10], Validation Loss: 0.5598, Validation IoU: 0.5268, Pixel Accuracy: 0.7757 
+
+Epoch [4/10], Loss: 0.4133, Time taken: 12.24s
+Epoch [4/10], Validation Loss: 0.4967, Validation IoU: 0.5864, Pixel Accuracy: 0.8044 
+
+Epoch [5/10], Loss: 0.4968, Time taken: 12.20s
+Epoch [5/10], Validation Loss: 0.4743, Validation IoU: 0.6164, Pixel Accuracy: 0.8167 
+
+Epoch [6/10], Loss: 0.3649, Time taken: 12.09s
+Epoch [6/10], Validation Loss: 0.4613, Validation IoU: 0.6345, Pixel Accuracy: 0.8249 
+
+Epoch [7/10], Loss: 0.3193, Time taken: 12.14s
+Epoch [7/10], Validation Loss: 0.4607, Validation IoU: 0.6408, Pixel Accuracy: 0.8251 
+
+Epoch [8/10], Loss: 0.3158, Time taken: 12.15s
+Epoch [8/10], Validation Loss: 0.4584, Validation IoU: 0.6285, Pixel Accuracy: 0.8283 
+
+Epoch [9/10], Loss: 0.3259, Time taken: 12.21s
+Epoch [9/10], Validation Loss: 0.4922, Validation IoU: 0.6403, Pixel Accuracy: 0.8281 
+
+Epoch [10/10], Loss: 0.2811, Time taken: 12.15s
+Epoch [10/10], Validation Loss: 0.4826, Validation IoU: 0.6448, Pixel Accuracy: 0.8338 
+
+Top-1 IoU: 0.6448, Mean IoU: 0.5965
+Model saved successfully!
+
+Training (50.0%) with 10 epochs, batch size: 16, learning rate: 0.001
+Epoch [1/10], Loss: 0.6218, Time taken: 9.88s
+Epoch [1/10], Validation Loss: 0.7655, Validation IoU: 0.3592, Pixel Accuracy: 0.7108 
+
+Epoch [2/10], Loss: 0.5998, Time taken: 9.90s
+Epoch [2/10], Validation Loss: 0.6216, Validation IoU: 0.4617, Pixel Accuracy: 0.7530 
+
+Epoch [3/10], Loss: 0.5675, Time taken: 9.70s
+Epoch [3/10], Validation Loss: 0.5878, Validation IoU: 0.4887, Pixel Accuracy: 0.7638 
+
+Epoch [4/10], Loss: 0.4542, Time taken: 9.76s
+Epoch [4/10], Validation Loss: 0.5443, Validation IoU: 0.5566, Pixel Accuracy: 0.7849 
+
+Epoch [5/10], Loss: 0.4956, Time taken: 9.75s
+Epoch [5/10], Validation Loss: 0.5196, Validation IoU: 0.5664, Pixel Accuracy: 0.7965 
+
+Epoch [6/10], Loss: 0.4400, Time taken: 10.05s
+Epoch [6/10], Validation Loss: 0.5099, Validation IoU: 0.5829, Pixel Accuracy: 0.7972 
+
+Epoch [7/10], Loss: 0.4058, Time taken: 10.01s
+Epoch [7/10], Validation Loss: 0.4972, Validation IoU: 0.5983, Pixel Accuracy: 0.8075 
+
+Epoch [8/10], Loss: 0.3065, Time taken: 10.01s
+Epoch [8/10], Validation Loss: 0.5065, Validation IoU: 0.6104, Pixel Accuracy: 0.8120 
+
+Epoch [9/10], Loss: 0.3043, Time taken: 10.04s
+Epoch [9/10], Validation Loss: 0.5106, Validation IoU: 0.6129, Pixel Accuracy: 0.8160 
+
+Epoch [10/10], Loss: 0.3073, Time taken: 9.86s
+Epoch [10/10], Validation Loss: 0.5156, Validation IoU: 0.6102, Pixel Accuracy: 0.8178 
+
+Top-1 IoU: 0.6129, Mean IoU: 0.5447
+Model saved successfully!
+
+Training (20.0%) with 10 epochs, batch size: 16, learning rate: 0.001
+Epoch [1/10], Loss: 0.7111, Time taken: 8.15s
+Epoch [1/10], Validation Loss: 0.7474, Validation IoU: 0.3810, Pixel Accuracy: 0.7034 
+
+Epoch [2/10], Loss: 0.7568, Time taken: 8.20s
+Epoch [2/10], Validation Loss: 0.7120, Validation IoU: 0.3725, Pixel Accuracy: 0.7164 
+
+Epoch [3/10], Loss: 0.8277, Time taken: 8.11s
+Epoch [3/10], Validation Loss: 0.7081, Validation IoU: 0.3630, Pixel Accuracy: 0.7177 
+
+Epoch [4/10], Loss: 0.6124, Time taken: 8.06s
+Epoch [4/10], Validation Loss: 0.6465, Validation IoU: 0.4699, Pixel Accuracy: 0.7428 
+
+Epoch [5/10], Loss: 0.5754, Time taken: 8.05s
+Epoch [5/10], Validation Loss: 0.6447, Validation IoU: 0.4780, Pixel Accuracy: 0.7415 
+
+Epoch [6/10], Loss: 0.5286, Time taken: 8.07s
+Epoch [6/10], Validation Loss: 0.6546, Validation IoU: 0.4407, Pixel Accuracy: 0.7505 
+
+Epoch [7/10], Loss: 0.5615, Time taken: 8.04s
+Epoch [7/10], Validation Loss: 0.5831, Validation IoU: 0.5144, Pixel Accuracy: 0.7658 
+
+Epoch [8/10], Loss: 0.4626, Time taken: 8.20s
+Epoch [8/10], Validation Loss: 0.5917, Validation IoU: 0.5284, Pixel Accuracy: 0.7638 
+
+Epoch [9/10], Loss: 0.3937, Time taken: 8.07s
+Epoch [9/10], Validation Loss: 0.5565, Validation IoU: 0.5422, Pixel Accuracy: 0.7829 
+
+Epoch [10/10], Loss: 0.3650, Time taken: 8.04s
+Epoch [10/10], Validation Loss: 0.5844, Validation IoU: 0.5219, Pixel Accuracy: 0.7829 
+
+Top-1 IoU: 0.5422, Mean IoU: 0.4612
+Model saved successfully!
+
+Training (90.0%) with 10 epochs, batch size: 32, learning rate: 0.001
+Epoch [1/10], Loss: 0.6707, Time taken: 12.19s
+Epoch [1/10], Validation Loss: 0.6599, Validation IoU: 0.4429, Pixel Accuracy: 0.7372 
+
+Epoch [2/10], Loss: 0.5915, Time taken: 12.11s
+Epoch [2/10], Validation Loss: 0.5834, Validation IoU: 0.5094, Pixel Accuracy: 0.7665 
+
+Epoch [3/10], Loss: 0.6116, Time taken: 12.12s
+Epoch [3/10], Validation Loss: 0.5241, Validation IoU: 0.5382, Pixel Accuracy: 0.7928 
+
+Epoch [4/10], Loss: 0.5106, Time taken: 12.02s
+Epoch [4/10], Validation Loss: 0.4823, Validation IoU: 0.5907, Pixel Accuracy: 0.8098 
+
+Epoch [5/10], Loss: 0.3507, Time taken: 12.02s
+Epoch [5/10], Validation Loss: 0.4628, Validation IoU: 0.6184, Pixel Accuracy: 0.8180 
+
+Epoch [6/10], Loss: 0.4447, Time taken: 12.21s
+Epoch [6/10], Validation Loss: 0.5010, Validation IoU: 0.5653, Pixel Accuracy: 0.8046 
+
+Epoch [7/10], Loss: 0.3614, Time taken: 12.13s
+Epoch [7/10], Validation Loss: 0.4650, Validation IoU: 0.5983, Pixel Accuracy: 0.8226 
+
+Epoch [8/10], Loss: 0.3813, Time taken: 12.16s
+Epoch [8/10], Validation Loss: 0.4342, Validation IoU: 0.6414, Pixel Accuracy: 0.8346 
+
+Epoch [9/10], Loss: 0.3671, Time taken: 11.97s
+Epoch [9/10], Validation Loss: 0.4499, Validation IoU: 0.6498, Pixel Accuracy: 0.8339 
+
+Epoch [10/10], Loss: 0.2901, Time taken: 11.94s
+Epoch [10/10], Validation Loss: 0.4378, Validation IoU: 0.6479, Pixel Accuracy: 0.8426 
+
+Top-1 IoU: 0.6498, Mean IoU: 0.5802
+Model saved successfully!
+
+Training (50.0%) with 10 epochs, batch size: 32, learning rate: 0.001
+Epoch [1/10], Loss: 0.6700, Time taken: 9.80s
+Epoch [1/10], Validation Loss: 0.7160, Validation IoU: 0.4523, Pixel Accuracy: 0.7137 
+
+Epoch [2/10], Loss: 0.5810, Time taken: 9.69s
+Epoch [2/10], Validation Loss: 0.6544, Validation IoU: 0.4601, Pixel Accuracy: 0.7357 
+
+Epoch [3/10], Loss: 0.5414, Time taken: 9.83s
+Epoch [3/10], Validation Loss: 0.6839, Validation IoU: 0.4028, Pixel Accuracy: 0.7314 
+
+Epoch [4/10], Loss: 0.5034, Time taken: 9.90s
+Epoch [4/10], Validation Loss: 0.5834, Validation IoU: 0.5317, Pixel Accuracy: 0.7658 
+
+Epoch [5/10], Loss: 0.5792, Time taken: 9.82s
+Epoch [5/10], Validation Loss: 0.5323, Validation IoU: 0.5390, Pixel Accuracy: 0.7900 
+
+Epoch [6/10], Loss: 0.4857, Time taken: 9.72s
+Epoch [6/10], Validation Loss: 0.5353, Validation IoU: 0.5803, Pixel Accuracy: 0.7897 
+
+Epoch [7/10], Loss: 0.4530, Time taken: 9.87s
+Epoch [7/10], Validation Loss: 0.5707, Validation IoU: 0.5685, Pixel Accuracy: 0.7749 
+
+Epoch [8/10], Loss: 0.4081, Time taken: 9.55s
+Epoch [8/10], Validation Loss: 0.5428, Validation IoU: 0.5721, Pixel Accuracy: 0.7933 
+
+Epoch [9/10], Loss: 0.3428, Time taken: 9.50s
+Epoch [9/10], Validation Loss: 0.5121, Validation IoU: 0.5993, Pixel Accuracy: 0.8074 
+
+Epoch [10/10], Loss: 0.2958, Time taken: 9.59s
+Epoch [10/10], Validation Loss: 0.5074, Validation IoU: 0.6107, Pixel Accuracy: 0.8140 
+
+Top-1 IoU: 0.6107, Mean IoU: 0.5317
+Model saved successfully!
+
+Training (20.0%) with 10 epochs, batch size: 32, learning rate: 0.001
+Epoch [1/10], Loss: 0.7754, Time taken: 7.94s
+Epoch [1/10], Validation Loss: 0.8695, Validation IoU: 0.4077, Pixel Accuracy: 0.6200 
+
+Epoch [2/10], Loss: 0.7296, Time taken: 8.02s
+Epoch [2/10], Validation Loss: 0.7173, Validation IoU: 0.4215, Pixel Accuracy: 0.7147 
+
+Epoch [3/10], Loss: 0.7414, Time taken: 7.84s
+Epoch [3/10], Validation Loss: 0.6969, Validation IoU: 0.4538, Pixel Accuracy: 0.7179 
+
+Epoch [4/10], Loss: 0.7608, Time taken: 7.93s
+Epoch [4/10], Validation Loss: 0.6897, Validation IoU: 0.3996, Pixel Accuracy: 0.7238 
+
+Epoch [5/10], Loss: 0.6956, Time taken: 8.02s
+Epoch [5/10], Validation Loss: 0.6817, Validation IoU: 0.4031, Pixel Accuracy: 0.7283 
+
+Epoch [6/10], Loss: 0.6825, Time taken: 7.91s
+Epoch [6/10], Validation Loss: 0.6537, Validation IoU: 0.4364, Pixel Accuracy: 0.7408 
+
+Epoch [7/10], Loss: 0.6611, Time taken: 7.94s
+Epoch [7/10], Validation Loss: 0.6451, Validation IoU: 0.4391, Pixel Accuracy: 0.7427 
+
+Epoch [8/10], Loss: 0.5493, Time taken: 7.95s
+Epoch [8/10], Validation Loss: 0.6406, Validation IoU: 0.4340, Pixel Accuracy: 0.7438 
+
+Epoch [9/10], Loss: 0.5057, Time taken: 7.88s
+Epoch [9/10], Validation Loss: 0.6726, Validation IoU: 0.3988, Pixel Accuracy: 0.7380 
+
+Epoch [10/10], Loss: 0.5015, Time taken: 7.93s
+Epoch [10/10], Validation Loss: 0.6097, Validation IoU: 0.4736, Pixel Accuracy: 0.7599 
+
+Top-1 IoU: 0.4736, Mean IoU: 0.4268
+Model saved successfully!
+

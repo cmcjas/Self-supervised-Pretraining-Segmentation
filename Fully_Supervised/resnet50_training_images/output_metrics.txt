@@ -1,0 +1,15 @@
+Training with: ResNet50, Batch Size: 16, Learning Rate: 0.0001
+Epoch: 01, Loss: 0.7616, Accuracy[Pixel: 0.6795, IoU: 0.3695]
+Epoch: 02, Loss: 0.7245, Accuracy[Pixel: 0.6889, IoU: 0.3522]
+Epoch: 03, Loss: 0.6805, Accuracy[Pixel: 0.6992, IoU: 0.4131]
+Epoch: 04, Loss: 0.6407, Accuracy[Pixel: 0.7186, IoU: 0.4437]
+Epoch: 05, Loss: 0.6040, Accuracy[Pixel: 0.7296, IoU: 0.4764]
+Epoch: 06, Loss: 0.5695, Accuracy[Pixel: 0.7320, IoU: 0.4846]
+Epoch: 07, Loss: 0.5437, Accuracy[Pixel: 0.7513, IoU: 0.5038]
+Epoch: 08, Loss: 0.5121, Accuracy[Pixel: 0.7256, IoU: 0.5145]
+Epoch: 09, Loss: 0.4934, Accuracy[Pixel: 0.7766, IoU: 0.5482]
+Epoch: 10, Loss: 0.4773, Accuracy[Pixel: 0.7746, IoU: 0.5384]
+Finished training: Average IoU = 0.4644, Max IoU = 0.5482
+Model saved.
+
+Test model, Average Accuracy[Pixel: 0.7928, IoU: 0.5536]

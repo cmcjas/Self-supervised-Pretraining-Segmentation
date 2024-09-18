@@ -1,0 +1,134 @@
+Training with: ResNet18, Batch Size: 16, Learning Rate: 0.01
+Epoch: 01, Loss: 1.0982, Accuracy[Pixel: 0.6530, IoU: 0.2930]
+Epoch: 02, Loss: 0.7710, Accuracy[Pixel: 0.6538, IoU: 0.3083]
+Epoch: 03, Loss: 0.7657, Accuracy[Pixel: 0.6357, IoU: 0.2676]
+Epoch: 04, Loss: 0.7556, Accuracy[Pixel: 0.6423, IoU: 0.2589]
+Epoch: 05, Loss: 0.7503, Accuracy[Pixel: 0.6698, IoU: 0.3627]
+Epoch: 06, Loss: 0.7390, Accuracy[Pixel: 0.6951, IoU: 0.3972]
+Epoch: 07, Loss: 0.7226, Accuracy[Pixel: 0.6761, IoU: 0.3294]
+Epoch: 08, Loss: 0.7217, Accuracy[Pixel: 0.6905, IoU: 0.4100]
+Epoch: 09, Loss: 0.7108, Accuracy[Pixel: 0.6899, IoU: 0.3813]
+Epoch: 10, Loss: 0.7077, Accuracy[Pixel: 0.6524, IoU: 0.2911]
+Finished training: Average IoU = 0.3299, Max IoU = 0.4100
+
+Test model, Average Accuracy[Pixel: 0.6954, IoU: 0.3444]
+
+Training with: ResNet18, Batch Size: 16, Learning Rate: 0.001
+Epoch: 01, Loss: 0.7145, Accuracy[Pixel: 0.7148, IoU: 0.4333]
+Epoch: 02, Loss: 0.5868, Accuracy[Pixel: 0.7376, IoU: 0.5045]
+Epoch: 03, Loss: 0.5297, Accuracy[Pixel: 0.7217, IoU: 0.3919]
+Epoch: 04, Loss: 0.4890, Accuracy[Pixel: 0.7844, IoU: 0.5575]
+Epoch: 05, Loss: 0.4547, Accuracy[Pixel: 0.7795, IoU: 0.5587]
+Epoch: 06, Loss: 0.4353, Accuracy[Pixel: 0.7928, IoU: 0.5937]
+Epoch: 07, Loss: 0.4143, Accuracy[Pixel: 0.7934, IoU: 0.5903]
+Epoch: 08, Loss: 0.3796, Accuracy[Pixel: 0.7892, IoU: 0.5523]
+Epoch: 09, Loss: 0.3646, Accuracy[Pixel: 0.7884, IoU: 0.5458]
+Epoch: 10, Loss: 0.3494, Accuracy[Pixel: 0.8066, IoU: 0.6214]
+Finished training: Average IoU = 0.5349, Max IoU = 0.6214
+
+Test model, Average Accuracy[Pixel: 0.8384, IoU: 0.6551]
+
+Training with: ResNet18, Batch Size: 16, Learning Rate: 0.0001
+Epoch: 01, Loss: 0.7154, Accuracy[Pixel: 0.7167, IoU: 0.4150]
+Epoch: 02, Loss: 0.5967, Accuracy[Pixel: 0.7356, IoU: 0.4817]
+Epoch: 03, Loss: 0.5291, Accuracy[Pixel: 0.7566, IoU: 0.5244]
+Epoch: 04, Loss: 0.4815, Accuracy[Pixel: 0.7626, IoU: 0.5126]
+Epoch: 05, Loss: 0.4466, Accuracy[Pixel: 0.7682, IoU: 0.5630]
+Epoch: 06, Loss: 0.4167, Accuracy[Pixel: 0.7679, IoU: 0.5145]
+Epoch: 07, Loss: 0.3892, Accuracy[Pixel: 0.7868, IoU: 0.5529]
+Epoch: 08, Loss: 0.3551, Accuracy[Pixel: 0.7961, IoU: 0.5785]
+Epoch: 09, Loss: 0.3290, Accuracy[Pixel: 0.8055, IoU: 0.6045]
+Epoch: 10, Loss: 0.3144, Accuracy[Pixel: 0.7968, IoU: 0.5946]
+Finished training: Average IoU = 0.5342, Max IoU = 0.6045
+
+Test model, Average Accuracy[Pixel: 0.8167, IoU: 0.6125]
+
+Training with: ResNet18, Batch Size: 32, Learning Rate: 0.01
+Epoch: 01, Loss: 1.3984, Accuracy[Pixel: 0.6036, IoU: 0.1240]
+Epoch: 02, Loss: 0.7977, Accuracy[Pixel: 0.6732, IoU: 0.3477]
+Epoch: 03, Loss: 0.7691, Accuracy[Pixel: 0.6727, IoU: 0.3510]
+Epoch: 04, Loss: 0.7631, Accuracy[Pixel: 0.6755, IoU: 0.3617]
+Epoch: 05, Loss: 0.7505, Accuracy[Pixel: 0.6797, IoU: 0.3688]
+Epoch: 06, Loss: 0.7455, Accuracy[Pixel: 0.6595, IoU: 0.2844]
+Epoch: 07, Loss: 0.7341, Accuracy[Pixel: 0.6748, IoU: 0.3848]
+Epoch: 08, Loss: 0.7148, Accuracy[Pixel: 0.6794, IoU: 0.3651]
+Epoch: 09, Loss: 0.6909, Accuracy[Pixel: 0.6945, IoU: 0.4329]
+Epoch: 10, Loss: 0.6697, Accuracy[Pixel: 0.7023, IoU: 0.4252]
+Finished training: Average IoU = 0.3446, Max IoU = 0.4329
+
+Test model, Average Accuracy[Pixel: 0.7363, IoU: 0.4382]
+
+Training with: ResNet18, Batch Size: 32, Learning Rate: 0.001
+Epoch: 01, Loss: 0.6959, Accuracy[Pixel: 0.7123, IoU: 0.4503]
+Epoch: 02, Loss: 0.5810, Accuracy[Pixel: 0.7426, IoU: 0.4720]
+Epoch: 03, Loss: 0.5245, Accuracy[Pixel: 0.7651, IoU: 0.5191]
+Epoch: 04, Loss: 0.4781, Accuracy[Pixel: 0.7857, IoU: 0.5504]
+Epoch: 05, Loss: 0.4501, Accuracy[Pixel: 0.7913, IoU: 0.5698]
+Epoch: 06, Loss: 0.4341, Accuracy[Pixel: 0.7796, IoU: 0.5235]
+Epoch: 07, Loss: 0.4099, Accuracy[Pixel: 0.7543, IoU: 0.4785]
+Epoch: 08, Loss: 0.3793, Accuracy[Pixel: 0.8186, IoU: 0.6210]
+Epoch: 09, Loss: 0.3555, Accuracy[Pixel: 0.8050, IoU: 0.6187]
+Epoch: 10, Loss: 0.3415, Accuracy[Pixel: 0.8076, IoU: 0.5934]
+Finished training: Average IoU = 0.5397, Max IoU = 0.6210
+
+Test model, Average Accuracy[Pixel: 0.8346, IoU: 0.6272]
+
+Training with: ResNet18, Batch Size: 32, Learning Rate: 0.0001
+Epoch: 01, Loss: 0.7326, Accuracy[Pixel: 0.7000, IoU: 0.3775]
+Epoch: 02, Loss: 0.6127, Accuracy[Pixel: 0.7109, IoU: 0.4764]
+Epoch: 03, Loss: 0.5420, Accuracy[Pixel: 0.7324, IoU: 0.5024]
+Epoch: 04, Loss: 0.4970, Accuracy[Pixel: 0.7638, IoU: 0.5157]
+Epoch: 05, Loss: 0.4551, Accuracy[Pixel: 0.7638, IoU: 0.5159]
+Epoch: 06, Loss: 0.4261, Accuracy[Pixel: 0.7525, IoU: 0.5025]
+Epoch: 07, Loss: 0.4011, Accuracy[Pixel: 0.7724, IoU: 0.5390]
+Epoch: 08, Loss: 0.3689, Accuracy[Pixel: 0.7788, IoU: 0.5626]
+Epoch: 09, Loss: 0.3399, Accuracy[Pixel: 0.7811, IoU: 0.5540]
+Epoch: 10, Loss: 0.3268, Accuracy[Pixel: 0.7744, IoU: 0.5293]
+Finished training: Average IoU = 0.5075, Max IoU = 0.5626
+
+Test model, Average Accuracy[Pixel: 0.7984, IoU: 0.5530]
+
+Training with: ResNet18, Batch Size: 64, Learning Rate: 0.01
+Epoch: 01, Loss: 2.7541, Accuracy[Pixel: 0.5678, IoU: 0.0534]
+Epoch: 02, Loss: 0.8359, Accuracy[Pixel: 0.6464, IoU: 0.3210]
+Epoch: 03, Loss: 0.7879, Accuracy[Pixel: 0.6469, IoU: 0.3411]
+Epoch: 04, Loss: 0.7738, Accuracy[Pixel: 0.6693, IoU: 0.3442]
+Epoch: 05, Loss: 0.7658, Accuracy[Pixel: 0.6529, IoU: 0.2985]
+Epoch: 06, Loss: 0.7565, Accuracy[Pixel: 0.6743, IoU: 0.3768]
+Epoch: 07, Loss: 0.7455, Accuracy[Pixel: 0.6804, IoU: 0.3937]
+Epoch: 08, Loss: 0.7370, Accuracy[Pixel: 0.6765, IoU: 0.3978]
+Epoch: 09, Loss: 0.7205, Accuracy[Pixel: 0.6677, IoU: 0.3388]
+Epoch: 10, Loss: 0.7140, Accuracy[Pixel: 0.6749, IoU: 0.3792]
+Finished training: Average IoU = 0.3245, Max IoU = 0.3978
+
+Test model, Average Accuracy[Pixel: 0.7084, IoU: 0.4007]
+
+Training with: ResNet18, Batch Size: 64, Learning Rate: 0.001
+Epoch: 01, Loss: 0.7569, Accuracy[Pixel: 0.6858, IoU: 0.4087]
+Epoch: 02, Loss: 0.6394, Accuracy[Pixel: 0.7168, IoU: 0.4333]
+Epoch: 03, Loss: 0.5768, Accuracy[Pixel: 0.7298, IoU: 0.4892]
+Epoch: 04, Loss: 0.5205, Accuracy[Pixel: 0.7659, IoU: 0.5131]
+Epoch: 05, Loss: 0.4777, Accuracy[Pixel: 0.7841, IoU: 0.5615]
+Epoch: 06, Loss: 0.4549, Accuracy[Pixel: 0.7507, IoU: 0.4667]
+Epoch: 07, Loss: 0.4356, Accuracy[Pixel: 0.7890, IoU: 0.5558]
+Epoch: 08, Loss: 0.4002, Accuracy[Pixel: 0.8055, IoU: 0.6009]
+Epoch: 09, Loss: 0.3743, Accuracy[Pixel: 0.8075, IoU: 0.5956]
+Epoch: 10, Loss: 0.3653, Accuracy[Pixel: 0.8058, IoU: 0.6040]
+Finished training: Average IoU = 0.5229, Max IoU = 0.6040
+
+Test model, Average Accuracy[Pixel: 0.8284, IoU: 0.6319]
+
+Training with: ResNet18, Batch Size: 64, Learning Rate: 0.0001
+Epoch: 01, Loss: 0.7702, Accuracy[Pixel: 0.6838, IoU: 0.3957]
+Epoch: 02, Loss: 0.6616, Accuracy[Pixel: 0.6974, IoU: 0.4378]
+Epoch: 03, Loss: 0.5904, Accuracy[Pixel: 0.7181, IoU: 0.3959]
+Epoch: 04, Loss: 0.5372, Accuracy[Pixel: 0.7211, IoU: 0.3912]
+Epoch: 05, Loss: 0.4902, Accuracy[Pixel: 0.7537, IoU: 0.4861]
+Epoch: 06, Loss: 0.4590, Accuracy[Pixel: 0.7617, IoU: 0.5068]
+Epoch: 07, Loss: 0.4224, Accuracy[Pixel: 0.7687, IoU: 0.5452]
+Epoch: 08, Loss: 0.3948, Accuracy[Pixel: 0.7631, IoU: 0.4948]
+Epoch: 09, Loss: 0.3690, Accuracy[Pixel: 0.7717, IoU: 0.5309]
+Epoch: 10, Loss: 0.3530, Accuracy[Pixel: 0.7733, IoU: 0.5217]
+Finished training: Average IoU = 0.4706, Max IoU = 0.5452
+
+Test model, Average Accuracy[Pixel: 0.7902, IoU: 0.5368]
